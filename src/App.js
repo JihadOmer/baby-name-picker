@@ -8,6 +8,7 @@ function App() {
     <li className='boy'>Boy</li>
     <li className='boy'>Boy</li>
     <li className='boy'>Boy</li>
+    <li className='boy'>Boy</li>
     <li className='girl'>girl</li>
     <li className='girl'>girl</li>
     <li className='girl'>girl</li>
