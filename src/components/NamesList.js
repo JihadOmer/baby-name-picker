@@ -17,7 +17,7 @@ const NamesList = (props) => {
 
   return (
     <div className="App">
-      <li>{nameslist}</li>
+      {nameslist}
     </div>
   );
 }
