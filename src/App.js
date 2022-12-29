@@ -6,21 +6,18 @@ import Footer from "./components/Footer";
 import Search from "./components/Search";
 import ShortList from "./components/ShortList";
 
-
-
-
 function App() {
   return (
     <div className="App">
       <main>
         <Search />
-        <ShortList/>
+        <ShortList />
         <Nameslist data={data} />
+        <Footer />
       </main>
-
-      <Footer />
     </div>
   );
 }
 
 export default App;
+
